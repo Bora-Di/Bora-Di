@@ -1,5 +1,5 @@
 <h1 align="center">Software engineer </h1>
-<h2 align="left">Hello, I'm Bouchra, a junior software engineer just graduated from ENSAH. Passionate about creating intuitive and visually appealing user experiences. Equipped with a foundation in programming languages and frameworks such as HTML, CSS, , PHP, Laravel, JAVA and JavaScript. Dedicated to continuous growth, actively seeking opportunities to expand both technical and design skills. Enthusiastic about leveraging the combination of software engineering and graphic design expertise to craft engaging and impactful digital experiences.</h3>
+<h4 align="left">Hello, I'm Bouchra, a junior software engineer just graduated from ENSAH. Passionate about creating intuitive and visually appealing user experiences. Equipped with a foundation in programming languages and frameworks such as HTML, CSS, , PHP, Laravel, JAVA and JavaScript. Dedicated to continuous growth, actively seeking opportunities to expand both technical and design skills. Enthusiastic about leveraging the combination of software engineering and graphic design expertise to craft engaging and impactful digital experiences.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bora-di&label=Profile%20views&color=0e75b6&style=flat" alt="bora-di" /> </p>
 
