@@ -1,27 +1,27 @@
-<h1 align="center" style="color:#4C4C6D;">Bouchra Houmaidi</h1>
-<h3 align="center" style="color:#6B7280;">Software Engineer · Frontend Developer · UI/UX Designer</h3>
+<h1 align="center" style="color:#333;">Bouchra Houmaidi</h1>
+<h3 align="center" style="color:#555;">Software Engineer · Frontend Developer · UI/UX Enthusiast</h3>
 
-<p align="center" style="color:#9CA3AF;">
-  Code meets design. Detail meets logic. Experience meets emotion.
+<p align="center" style="color:#777; font-style:italic;">
+  Building seamless user experiences through thoughtful design and clean code.
 </p>
 
 ---
 
-### 👩‍💻 About Me
+### 🧭 Who I Am
 
-I'm a **junior software engineer** recently graduated from **ENSAH**, currently working as a **front-end engineer** with Laravel and PHP — while actively building strong skills in **Java** and the **Spring ecosystem**, where my real interest lies.
+I’m a junior software engineer with a growing passion for **Java & Spring**, currently sharpening my skills in the **Laravel/PHP ecosystem** through real-world projects.
 
-My work blends development and design. I love creating **functional, clean, and intuitive user interfaces**, and translating ideas into engaging digital experiences — whether through code or design.
+With a background rooted in both **development** and **interface design**, I work at the intersection of code and creativity — transforming concepts into user-focused, scalable digital products.
 
-What I focus on:
-- **Frontend development** (React, Tailwind CSS, Bootstrap)
-- **UI/UX design** (Figma, component systems, responsive design)
-- **Backend fundamentals** (Laravel, Java, Spring Boot)
-- **Design-to-code workflows** (prototypes to production)
+I care about:
+- **Clean front-end architecture** with frameworks like React & Tailwind
+- **User experience design** that’s accessible, aesthetic, and functional
+- **Back-end logic** and modular systems with Spring Boot or Laravel
+- Bridging the gap between **design tools** (like Figma) and **production-ready code**
 
 ---
 
-### 🔧 Tech Stack
+### 🧰 My Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,java,spring,figma,postman,git" />
@@ -29,21 +29,28 @@ What I focus on:
 
 ---
 
-### 💡 Mindset
+### 🚀 What I'm Working On
 
-- I care about **clean architecture**, **pixel-perfect interfaces**, and **user-first design**.
-- I'm comfortable collaborating with designers and developers alike — I speak both languages.
-- I'm investing in learning **Spring Boot** and **Java fullstack** development, aiming to build robust back-end systems.
+- Developing Laravel-based dashboards, components, and UI libraries
+- Practicing clean UI/UX patterns for responsive design across web apps
+- Learning enterprise-level back-end development with **Spring Boot**
+- Improving design-to-code pipelines using tools like **Figma + Tailwind**
 
 ---
 
-### 🔗 Connect
+### 📫 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bouchra-houmaidi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Bouchra_Houmaidi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/bouchrahoumaidi" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-@bouchrahoumaidi-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
 </p>
+
+---
+
+### 📝 Final Thought
+
+Great code solves problems. Great design makes it feel effortless. I strive to bring both together.
