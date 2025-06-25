@@ -9,7 +9,7 @@
 
 ### 🧭 Who I Am
 
-I’m a junior software engineer with a growing passion for **Java & Spring**, currently sharpening my skills in the **Laravel/PHP ecosystem** through real-world projects.
+I’m a software engineer with a growing passion for **Java & Spring**, currently sharpening my skills in the **Laravel/PHP ecosystem** through real-world projects.
 
 With a background rooted in both **development** and **interface design**, I work at the intersection of code and creativity — transforming concepts into user-focused, scalable digital products.
 
